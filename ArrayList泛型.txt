@@ -1,0 +1,4 @@
+ArrayList<>
+		<>中可以放任意类型
+		放入不同的类型以定义不同类型的泛型集合
+		如ArrayList<String>则为存放string类型的数组集合
